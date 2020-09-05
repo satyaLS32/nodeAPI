@@ -1,0 +1,15 @@
+{
+  "name": "edureka",
+  "version": "1.0.0",
+  "description": "Api's for mobile app",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "AakashHanda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
